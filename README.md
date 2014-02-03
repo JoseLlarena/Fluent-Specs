@@ -2,7 +2,7 @@
 Fluent-Specs
 =================== 
 
-FluentSpecs is a Java API for fluent unit-level specification using a BDD/Gherkin format. It provides a thin uniform interface for
+FluentSpecs is a Java API for fluent unit-level specification using a BDD/Gherkin format, similar to ScalaTest. It provides a thin uniform interface for
 mocking, behaviour and state verification around Mockito and Hamcrest. 
 
 Inspired by Hamcrest, Mockito, Fest-Assertions, RSpec and Narrative.
